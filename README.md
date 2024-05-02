@@ -22,6 +22,6 @@
 - **Telegram**: https://t.me/HilsQ
 
 
-<img align="center" height="250" width="500" alt="" src="https://h1ls.ru/wp-content/uploads/2024/04/python-cover-image.jpg" />
+<img align="center" height="250" width="500" alt="" src="https://h1ls.ru/wp-content/uploads/2024/04/1-cover-image.gif" />
 
 
