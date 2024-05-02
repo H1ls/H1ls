@@ -6,7 +6,7 @@
 
 ## 🔧 Технологии и инструменты
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJjaTVnMDZhNmFyMXc0dm9qczk2Z3IybWtpNWhlbXp0bzdsOW53aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJjaTVnMDZhNmFyMXc0dm9qczk2Z3IybWtpNWhlbXp0bzdsOW53aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
 
 - **Языки программирования**: Python, Java, JavaScript, TypeScript
 - **Контейнеризация**: Docker
