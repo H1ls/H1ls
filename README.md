@@ -16,7 +16,8 @@
 - **Принципы и методологии**: SOLID, TDD
 - **CI/CD**: Jenkins, GitLab CI, GitHub Actions
 - **Архитектура**: Event Driven Architecture
-- **Новые технологии**: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=F7D2CA&random=false&width=435&lines=in+process+.+.+.)](https://git.io/typing-svg)
+- **Новые технологии**:
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=F7D2CA&random=false&width=435&lines=in+process+.+.+.)](https://git.io/typing-svg)
 
 
 
