@@ -22,6 +22,6 @@
 - **Telegram**: https://t.me/HilsQ
 
 
-<img align="center" height="250" width="400" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1xbzZ6ajVmd3FoYTJwZXpqMzN1ZXAxZjd4ejg4emR3cXp2czVxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif" />
+<img align="center" height="250" width="500" alt="" src="https://h1ls.ru/wp-content/uploads/2024/04/1-cover-image.gif" />
 
 
