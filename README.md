@@ -20,4 +20,4 @@
 - **Telegram**: https://t.me/HilsQ
 
 
-<img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJjaTVnMDZhNmFyMXc0dm9qczk2Z3IybWtpNWhlbXp0bzdsOW53aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
