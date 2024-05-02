@@ -18,3 +18,6 @@
 ## 📫 Как со мной связаться
 - **Email**: rnaniski@gmail.com
 - **Telegram**: https://t.me/HilsQ
+
+
+<img align="center" height="250" width="375" alt="" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
