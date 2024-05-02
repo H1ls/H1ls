@@ -4,7 +4,7 @@
 
 Через мой [персональный сайт](https://h1ls.ru/) я делюсь своим опытом, исследованиями и вдохновением.
 
-<img align="center" height="350" width="10%" alt="" src="https://h1ls.ru/wp-content/uploads/2024/05/2024-05-02_17-20-52.png" />
+<img align="center" height="350" width="100%" alt="" src="https://h1ls.ru/wp-content/uploads/2024/05/2024-05-02_17-20-52.png" />
 
 ## 🔧 Технологии и инструменты
 
@@ -28,6 +28,6 @@
 - **Telegram**: https://t.me/HilsQ
 
 
-<img align="center" height="400" width="50%" alt="" src="https://h1ls.ru/wp-content/uploads/2024/04/1-cover-image.gif" />
+<img align="center" height="400" width="100%" alt="" src="https://h1ls.ru/wp-content/uploads/2024/04/1-cover-image.gif" />
 
 
